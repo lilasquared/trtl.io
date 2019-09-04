@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turtl.io.web", "turtl.io.web\turtl.io.web.csproj", "{95DB68A5-A40B-42B1-A12F-A0AEAB42B809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turtl.io.web.tests", "turtl.io.web.tests\turtl.io.web.tests.csproj", "{AB376F5D-B350-42A1-A44E-2F7A2F13DE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DB68A5-A40B-42B1-A12F-A0AEAB42B809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DB68A5-A40B-42B1-A12F-A0AEAB42B809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DB68A5-A40B-42B1-A12F-A0AEAB42B809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DB68A5-A40B-42B1-A12F-A0AEAB42B809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB376F5D-B350-42A1-A44E-2F7A2F13DE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB376F5D-B350-42A1-A44E-2F7A2F13DE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB376F5D-B350-42A1-A44E-2F7A2F13DE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB376F5D-B350-42A1-A44E-2F7A2F13DE93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
